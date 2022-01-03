@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjaykatoch
 - I’m  Software Developer
 - 🌱 I’m currently learning Rect
-- 💞️ I’m looking to collaborate on angular with .NET project
+- 💞️ I’m looking to collaborate on React with .NET project
 - 📫 You can reach me  at iamsanjuthakur@outlook.com
 
 <!---
